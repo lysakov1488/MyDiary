@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="math">Алгебра</string>
+    <string name="rus">Русский язык</string>
+    <string name="pe">Физ-ра</string>
+    <string name="it">Информатика</string>
+    <string name="history">История</string>
+    <string name="physics">Физика</string>
+    <string name="biology">Биология</string>
+    <string name="music">Музыка</string>
+    <string name="obsh">Обществознание</string>
+    <string name="geometry">Геометрия</string>
+    <string name="geography">География</string>
+    <string name="english">Английский</string>
+
+
+</resources>
